@@ -106,14 +106,14 @@ class Index extends Component {
             <div className='container p-5'>
                 <div className='row'>
                     <div className='col-md-12 text-center mb-5'>
-                        <h2 className='text-danger'>Tic Tac Toc Game For My Practices</h2>
+                        <h2 className='text-danger'>Tic Tac Toe Game For My Practices</h2>
                     </div>
                     <div className='col-md-4'>
                         <h3>Game Information</h3>
                         <ul className='list-group'>
                             <li className='list-group-item'>Project Name: Tic Tac Toe</li>
-                            <li className='list-group-item'>Project Development by <a href='https://www.linkedin.com/in/tobibur'>Md Tobibur Rohman</a></li>
-                            <li className='list-group-item'>Project Sources Code: <a href=''>GitHub</a></li>
+                            <li className='list-group-item'>Project Development by <a target='_blank'  href='https://www.linkedin.com/in/tobibur'>Md Tobibur Rohman</a></li>
+                            <li className='list-group-item'>Project Sources Code: <a target='_blank' href='https://github.com/wptobibur2021/tic-tac-toe-game'>GitHub</a></li>
                         </ul>
                     </div>
                     <div className='col-md-4'>
